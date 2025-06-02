@@ -24,22 +24,22 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=react&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ТВОЙ_НИК&theme=react&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tebrall&show_icons=true&theme=react&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tebrall&theme=react&hide_border=false" width="48%" />
 </p>
 
 ---
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=react&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tebrall&layout=compact&theme=react&hide_border=false" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tebrall&theme=react-dark&hide_border=true" />
 </p>
 
 ---
