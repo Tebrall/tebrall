@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React Native**, **Swift**, and **mobile architecture patterns**
 - 🧠 Interested in AI x Mobile synergy
 - 💬 Ask me about `React Native`, `Expo`, `Firebase`, `TypeScript`, `Git`, `C++`
-- 📫 How to reach me: [@yourhandle](mailto:youremail@example.com)
+- 📫 How to reach me: [@yourhandle](mailto:tim0413@mail.ru)
 - ⚡ Fun fact: I love solving bugs at night like a bat 🦇
 
 ---
