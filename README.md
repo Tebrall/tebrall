@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React Native**, **Swift**, and **mobile architecture patterns**
 - 🧠 Interested in AI x Mobile synergy
 - 💬 Ask me about `React Native`, `Expo`, `Firebase`, `TypeScript`, `Git`, `C++`
-- 📫 How to reach me: [@yourhandle](mailto:tim0413@mail.ru)
+- 📫 How to reach me: [mail](mailto:tim0413@mail.ru)
 - ⚡ Fun fact: I love solving bugs at night like a bat 🦇
 
 ---
@@ -19,6 +19,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![React JS]https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
 
 ---
 
