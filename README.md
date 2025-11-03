@@ -38,17 +38,10 @@
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tebrall&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ### 🧰 My Projects
-- 🏡 [`PropertyHelperApp`](https://github.com/ТВОЙ_НИК/PropertyHelperApp) — React Native + Firebase
-- 📦 [`DeliveryTracker`](https://github.com/ТВОЙ_НИК/DeliveryTracker) — Expo + Maps + Notifications
-- 📊 [`WeatherStat`](https://github.com/ТВОЙ_НИК/WeatherStat) — C++ + CSV Parser + Math Lib
+- 🏡 [`PropertyHelperApp`](https://github.com/tebrall/PropertyHelperApp) — React Native + Firebase
+- 📦 [`DeliveryTracker`](https://github.com/tebrall/DeliveryTracker) — Expo + Maps + Notifications
+- 📊 [`WeatherStat`](https://github.com/tebrall/WeatherStat) — C++ + CSV Parser + Math Lib
 
 ---
 
