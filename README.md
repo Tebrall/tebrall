@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Timur 👋</h1>
-<p align="center">🚀 React Native Developer | 🎨 UI/UX Fan | 💡 Always Learning</p>
+<p align="center">🚀 React Native & Flutter Developer | 🎨 UI/UX Fan | 💡 Always Learning</p>
 
 ---
 
