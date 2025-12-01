@@ -6,7 +6,7 @@
 ### 💼 About Me
 - 🌱 I’m currently learning **React Native**, **Swift**, and **mobile architecture patterns**
 - 🧠 Interested in AI x Mobile synergy
-- 💬 Ask me about `React Native`, `Expo`, `Firebase`, `TypeScript`, `Git`, `C++`
+- 💬 Ask me about `React Native`, `Flutter`, `Firebase`, `TypeScript`, `Git`, `C++`
 - 📫 How to reach me: [mail](mailto:tim0413@mail.ru)
 - ⚡ Fun fact: I love solving bugs at night like a bat 🦇
 
