@@ -1,12 +1,10 @@
 <!-- ===== HEADER ===== -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24C6DC&height=200&section=header&text=Timur&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Developer%20%C2%B7%20React%20Native%20%26%20Flutter&descAlignY=60&descSize=18" />
-</a>
+<h1 align="center">
+  <samp>T&nbsp;I&nbsp;M&nbsp;U&nbsp;R</samp>
+</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=520&lines=React+Native+%2B+TypeScript+everyday;Flutter+on+the+side;Chasing+clean+architecture;Fixing+bugs+at+2AM+like+a+bat" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=24C6DC&center=true&vCenter=true&width=560&height=45&lines=React+Native+%2B+TypeScript+everyday;Flutter+on+the+side;Chasing+clean+architecture;Fixing+bugs+at+2AM+like+a+bat" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -98,4 +96,6 @@ const timur = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24C6DC,50:302B63,100:0F0C29&height=120&section=footer" />
+<p align="center">
+  <sub><samp>ship it, then make it feel right</samp></sub>
+</p>
