@@ -20,7 +20,7 @@
 ```ts
 const timur = {
   role:      "Mobile Developer",
-  stack:     ["React Native", "Expo", "TypeScript", "Flutter", "Firebase"],
+  stack:     ["React Native","Python","Expo", "TypeScript", "Flutter", "Firebase"],
   learning:  ["Swift", "Clean Architecture", "AI × Mobile"],
   alsoKnows: ["React", "C++", "Git"],
   activeHours: "after midnight",
